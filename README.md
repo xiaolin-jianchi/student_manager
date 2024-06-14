@@ -1,0 +1,2 @@
+# student_manager
+JavaWeb期末项目，一个基于JSP和Servlet的学生信息管理系统实现，前端用了bootstrap和一些自定义的css样式，数据库用了mysql
